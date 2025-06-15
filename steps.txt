@@ -11,3 +11,9 @@ verificar versao django python -m django --version
 guardar dependencias pip freeze > requirements.txt
 
 criar projeto django - django-admin startproject <nome-do-projeto>
+
+rodar projeto python manage.py runserver
+
+fazer configuracoes do settings.py - arquivos estaticos e templates
+
+criar aplicativo dentro do projeto - python manage.py startapp app1
