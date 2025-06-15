@@ -16,4 +16,21 @@ rodar projeto python manage.py runserver
 
 fazer configuracoes do settings.py - arquivos estaticos e templates
 
-criar aplicativo dentro do projeto - python manage.py startapp app1
+criar aplicativo dentro do projeto - python manage.py startapp app
+
+configurar as urls (project e app)
+
+criar uma view (index)
+
+criar a pasta de templates
+
+criar migracoes banco de dados - python manage.py makemigrations
+
+executar e criar tabelas - python manage.py migrate
+
+python shell - python manage.py shell
+
+criar superusuario - python manage.py createsuperuser
+
+registrar models no admin.py do app
+
