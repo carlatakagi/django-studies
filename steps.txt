@@ -34,7 +34,11 @@ criar superusuario - python manage.py createsuperuser
 
 registrar models no admin.py do app
 
-sempre que fizer alterações na model, deve executar novamente o makemigrations e depois o migrate
-
 --
+sempre que fizer alterações na model, deve executar novamente o makemigrations e depois o migrate
 criar template
+--
+
+criar form
+testar form
+jinja - engine templates -> código no template
