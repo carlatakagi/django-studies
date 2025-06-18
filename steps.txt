@@ -34,5 +34,7 @@ criar superusuario - python manage.py createsuperuser
 
 registrar models no admin.py do app
 
-sempre que fizer alteações na model, deve executar novamente o makemigrations e depois o migrate
+sempre que fizer alterações na model, deve executar novamente o makemigrations e depois o migrate
 
+--
+criar template
